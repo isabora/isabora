@@ -1,6 +1,8 @@
 <h1 align="center">Hello Stranger 👋, I'm Isabeli</h1>
 <h3 align="center">A student in Bachelor of Information Systems in from Brazil</h3>
 
+![](https://br.pinterest.com/pin/796433515330238885/)
+
 - 🌱 I’m currently learning **JavaScript & Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/isabora](https://github.com/isabora)
