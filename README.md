@@ -1,7 +1,7 @@
 <h1 align="center">Hello Stranger 👋, I'm Isabeli</h1>
 <h3 align="center">A student in Bachelor of Information Systems in from Brazil</h3>
 
-<iframe src="https://giphy.com/embed/bcKmIWkUMCjVm" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animated-hello-waving-bcKmIWkUMCjVm">via GIPHY</a></p>
+![](http://i.imgur.com/OUkLi.gif)
 
 - 🌱 I’m currently learning **JavaScript & Java**
 
