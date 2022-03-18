@@ -17,7 +17,7 @@
 </li>
 
 <li>
-  <strong>University:</strong> Bachelor of Information Systems</li>
+  <strong>University:</strong> Bachelor of Information Systems - Positive University</li>
 </li>
 
  <li>
