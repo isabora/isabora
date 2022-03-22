@@ -43,7 +43,7 @@
 
 <li>👨‍💻 All of my projects are available at... https://github.com/isabora </li>
 
-<li>📫 How to reach me... <strong>isabelibora@hotmail.com</strong> </li>
+<li>📫 How to reach me... <a href="mailto:isabelibora@hotmail.com">isabelibora@hotmail.com</li></a>
 
 <li>📄 Know about my experiences... https://www.linkedin.com/in/isabelibora/ </li>
 
