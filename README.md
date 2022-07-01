@@ -33,9 +33,6 @@
   <strong>Hobbys:</strong> Play Valorant & League of Legends and Web Development.
  </li>
  
- <li>
-    <strong>Working @:</b> TI Support | Maxflex Colchões
-  </li>
 </div>
 <br>
  
