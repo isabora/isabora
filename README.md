@@ -18,7 +18,7 @@
 </li>
 
 <li>
-  <strong>University:</strong> Bachelor of Information Systems - Positive University</li>
+  <strong>University:</strong> Information Technology Management - PUCPR</li>
 </li>
 
  <li>
@@ -36,7 +36,7 @@
 </div>
 <br>
  
-<li>🌱 I’m currently learning... <strong>JavaScript & Java</strong> </li>
+<li>🌱 I’m currently learning... <strong>JavaScript & Python</strong> </li>
 
 <li>👨‍💻 All of my projects are available at... https://github.com/isabora </li>
 
